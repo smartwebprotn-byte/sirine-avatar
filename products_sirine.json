@@ -1,0 +1,609 @@
+[
+  {
+    "id": "fresco",
+    "name": "Fresco",
+    "product_type": "Complementi",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/complementi/fresco",
+    "specs": {
+      "dimensioni_cm": "59 x 65 x 91,5",
+      "potenza_assorbita_kw": 0.25
+    },
+    "highlights": [
+      "Modulare",
+      "Possibilità di aggiungere una macchina da banco"
+    ],
+    "ideal_for": [
+      "Gelatierie"
+    ]
+  },
+  {
+    "id": "dose-fill",
+    "name": "Dose Fill",
+    "product_type": "Complementi",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/complementi/dose-fill",
+    "specs": {}
+  },
+  {
+    "id": "lucky",
+    "name": "Lucky",
+    "product_type": "Complementi",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/complementi/lucky",
+    "specs": {
+      "capacita_max_vasca_lt": 2,
+      "quantita_oraria_prodotta_lt": 150,
+      "potenza_installata_kw": 0.72,
+      "alimentazione_elettrica": "220 / 1 / 50",
+      "dimensioni_cm": "22 x 52 x 46"
+    }
+  },
+  {
+    "id": "turbomix",
+    "name": "Turbomix",
+    "product_type": "Complementi",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/complementi/turbomix",
+    "specs": {
+      "giri_motore_min": "3.000 - 12.000",
+      "quantita_minima_per_ciclo_lt": 3,
+      "quantita_massima_per_ciclo_lt": 15,
+      "caratteristiche_elettriche_volt": "200 - 240",
+      "peso_kg": 65
+    }
+  },
+  {
+    "id": "psk-185-pro",
+    "name": "PSK 185 pro",
+    "product_type": "Pastorizzatori",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/pastorizzatori/psk-185-pro",
+    "specs": {
+      "quantita_per_ciclo_lt": "55-170",
+      "motore_emulsionatore_kw": 1.1,
+      "dimensione_max_globuli_grasso_um": 4,
+      "potenza_installata_kw": 14,
+      "alimentazione_elettrica": "400 / 3 / 50",
+      "dimensioni_cm": "69 x 95 x 115"
+    },
+    "highlights": [
+      "Flessibilità",
+      "Sensore livello e girante pro microfusa",
+      "Possibilità di smontare il pistone con grande facilità, anche a vasca piena",
+      "Griglia inserimento ingredienti",
+      "Pistone regolabile con maniglia chef",
+      "Coperchio superiore rinforzato con tubi inox, parzializzato",
+      "Possibilità di smontare la testa disintegratrice con grande facilità",
+      "App M2M Dialog",
+      "ECO MODE"
+    ],
+    "ideal_for": [
+      "Trattare miscele complesse",
+      "Trattare grandi quantità e piccole quantità con la stessa efficacia"
+    ]
+  },
+  {
+    "id": "psk-pro",
+    "name": "PSK Pro",
+    "product_type": "Pastorizzatori",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/pastorizzatori/psk-pro",
+    "specs": {}
+  },
+  {
+    "id": "easymix-revo",
+    "name": "Easymix revo",
+    "product_type": "Pastorizzatori",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/pastorizzatori/easymix-revo",
+    "specs": {
+      "quantita_per_ciclo_lt": "18 - 55",
+      "potenza_installata_kw": 9,
+      "alimentazione_elettrica": "400 / 3 / 50",
+      "dimensioni_cm": "39 x 85 x 103"
+    },
+    "highlights": [
+      "Girante pro microfusa",
+      "Doppio riscaldamento",
+      "Opzione Dialog: monitoraggio e teleassistenza facilitata",
+      "ECO MODE"
+    ]
+  },
+  {
+    "id": "easymix-plus",
+    "name": "Easymix plus",
+    "product_type": "Pastorizzatori",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/pastorizzatori/easymix-plus",
+    "specs": {
+      "quantita_per_ciclo_lt": "25 - 55",
+      "potenza_installata_kw": 9,
+      "alimentazione_elettrica": "400 / 3 / 50",
+      "dimensioni_cm": "39 x 85 x 103"
+    },
+    "highlights": [
+      "Doppio riscaldamento",
+      "Easymix 60 + 60 plus: a due vasche, completamente indipendenti"
+    ]
+  },
+  {
+    "id": "easymix-60-60-plus",
+    "name": "Easymix 60 60 plus",
+    "product_type": "Pastorizzatori",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/pastorizzatori/easymix-60-60-plus",
+    "specs": {}
+  },
+  {
+    "id": "mix-7",
+    "name": "Mix 7",
+    "product_type": "Pastorizzatori",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/pastorizzatori/mix-7",
+    "specs": {}
+  },
+  {
+    "id": "multifreeze",
+    "name": "Multifreeze",
+    "product_type": "Mantecatori",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/mantecatori/multifreeze",
+    "specs": {}
+  },
+  {
+    "id": "stargel-revo",
+    "name": "Stargel Revo",
+    "product_type": "Mantecatori",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/mantecatori/stargel-revo",
+    "specs": {}
+  },
+  {
+    "id": "stargel",
+    "name": "Stargel",
+    "product_type": "Mantecatori",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/mantecatori/stargel",
+    "specs": {}
+  },
+  {
+    "id": "multifreeze-pro",
+    "name": "Multifreeze Pro",
+    "product_type": "Mantecatori",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/mantecatori/multifreeze-pro",
+    "specs": {}
+  },
+  {
+    "id": "multifreeze-icona",
+    "name": "Multifreeze Icona",
+    "product_type": "Mantecatori",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/mantecatori/multifreeze-icona",
+    "specs": {}
+  },
+  {
+    "id": "multifreeze-icona-hybrid",
+    "name": "Multifreeze Icona Hybrid",
+    "product_type": "Mantecatori",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/mantecatori/multifreeze-icona-hybrid",
+    "specs": {}
+  },
+  {
+    "id": "effe",
+    "name": "Effe",
+    "product_type": "Fabbricatore Verticale",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/fabbricatore-verticale/effe",
+    "specs": {}
+  },
+  {
+    "id": "easy-freeze",
+    "name": "Easy Freeze",
+    "product_type": "Fabbricatore Verticale",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/fabbricatore-verticale/easy-freeze",
+    "specs": {}
+  },
+  {
+    "id": "compacta",
+    "name": "Compacta",
+    "product_type": "Combinate",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/combinate/compacta",
+    "specs": {}
+  },
+  {
+    "id": "compacta-vario",
+    "name": "Compacta Vario",
+    "product_type": "Combinate",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/combinate/compacta-vario",
+    "specs": {}
+  },
+  {
+    "id": "vario-icona",
+    "name": "Vario Icona",
+    "product_type": "Combinate",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/combinate/vario-icona",
+    "specs": {}
+  },
+  {
+    "id": "vario-icona-hybrid",
+    "name": "Vario Icona Hybrid",
+    "product_type": "Combinate",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/combinate/vario-icona-hybrid",
+    "specs": {}
+  },
+  {
+    "id": "compacta-4",
+    "name": "Compacta 4",
+    "product_type": "Combinate Da Banco",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/combinate-da-banco/compacta-4",
+    "specs": {}
+  },
+  {
+    "id": "mtm-k20",
+    "name": "MTM K20",
+    "product_type": "Mantecatori Da Banco 2",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/mantecatori-da-banco-2/mtm-k20",
+    "specs": {}
+  },
+  {
+    "id": "stargel-2",
+    "name": "Stargel 2",
+    "product_type": "Mantecatori Da Banco 2",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/mantecatori-da-banco-2/stargel-2",
+    "specs": {}
+  },
+  {
+    "id": "cubo-2",
+    "name": "Cubo 2",
+    "product_type": "Mantecatori Da Banco 2",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/mantecatori-da-banco-2/cubo-2",
+    "specs": {}
+  },
+  {
+    "id": "ck-n",
+    "name": "CK N",
+    "product_type": "Abbattitori",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/abbattitori/ck-n",
+    "specs": {}
+  },
+  {
+    "id": "cool",
+    "name": "Cool",
+    "product_type": "Conservatori",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/conservatori/cool",
+    "specs": {}
+  },
+  {
+    "id": "very-cool",
+    "name": "Very Cool",
+    "product_type": "Conservatori",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/conservatori/very-cool",
+    "specs": {}
+  },
+  {
+    "id": "very-cool-gelato",
+    "name": "Very Cool Gelato",
+    "product_type": "Conservatori",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/conservatori/very-cool-gelato",
+    "specs": {}
+  },
+  {
+    "id": "vision-4",
+    "name": "Vision 4",
+    "product_type": "BGI",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/bgi/vision-4",
+    "specs": {}
+  },
+  {
+    "id": "vision-4-scoop",
+    "name": "Vision 4 Scoop",
+    "product_type": "BGI",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/bgi/vision-4-scoop",
+    "specs": {}
+  },
+  {
+    "id": "vision-4+4",
+    "name": "Vision 4+4",
+    "product_type": "BGI",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/bgi/vision-4+4",
+    "specs": {}
+  },
+  {
+    "id": "vision-4+4-scoop",
+    "name": "Vision 4+4 Scoop",
+    "product_type": "BGI",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/bgi/vision-4+4-scoop",
+    "specs": {}
+  },
+  {
+    "id": "vision-6",
+    "name": "Vision 6",
+    "product_type": "BGI",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/bgi/vision-6",
+    "specs": {}
+  },
+  {
+    "id": "vision-6-scoop",
+    "name": "Vision 6 Scoop",
+    "product_type": "BGI",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/bgi/vision-6-scoop",
+    "specs": {}
+  },
+  {
+    "id": "vision-6+6",
+    "name": "Vision 6+6",
+    "product_type": "BGI",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/bgi/vision-6+6",
+    "specs": {}
+  },
+  {
+    "id": "vision-6+6-scoop",
+    "name": "Vision 6+6 Scoop",
+    "product_type": "BGI",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/bgi/vision-6+6-scoop",
+    "specs": {}
+  },
+  {
+    "id": "vision-8",
+    "name": "Vision 8",
+    "product_type": "BGI",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/bgi/vision-8",
+    "specs": {}
+  },
+  {
+    "id": "vision-8-scoop",
+    "name": "Vision 8 Scoop",
+    "product_type": "BGI",
+    "business_category": "Macchine Gelato Artigianale",
+    "url": "https://www.iceteam1927.it/prodotti/macchine-gelato-artigianale/bgi/vision-8-scoop",
+    "specs": {}
+  },
+  {
+    "id": "g1",
+    "name": "G1",
+    "product_type": "Macchine A Gravita",
+    "business_category": "Gelato Soft",
+    "url": "https://www.iceteam1927.it/prodotti/gelato-soft/macchine-a-gravita/g1",
+    "specs": {}
+  },
+  {
+    "id": "g1-S&S",
+    "name": "G1 S&S",
+    "product_type": "Macchine A Gravita",
+    "business_category": "Gelato Soft",
+    "url": "https://www.iceteam1927.it/prodotti/gelato-soft/macchine-a-gravita/g1-S&S",
+    "specs": {}
+  },
+  {
+    "id": "603-icona-HT",
+    "name": "603 Icona HT",
+    "product_type": "Serie Bib",
+    "business_category": "Gelato Soft",
+    "url": "https://www.iceteam1927.it/prodotti/gelato-soft/serie-bib/603-icona-HT",
+    "specs": {}
+  },
+  {
+    "id": "301-inox",
+    "name": "301 Inox",
+    "product_type": "Serie Bib",
+    "business_category": "Gelato Soft",
+    "url": "https://www.iceteam1927.it/prodotti/gelato-soft/serie-bib/301-inox",
+    "specs": {}
+  },
+  {
+    "id": "301-pro",
+    "name": "301 Pro",
+    "product_type": "Serie Bib",
+    "business_category": "Gelato Soft",
+    "url": "https://www.iceteam1927.it/prodotti/gelato-soft/serie-bib/301-pro",
+    "specs": {}
+  },
+  {
+    "id": "401-bib",
+    "name": "401 BIB",
+    "product_type": "Serie Bib",
+    "business_category": "Gelato Soft",
+    "url": "https://www.iceteam1927.it/prodotti/gelato-soft/serie-bib/401-bib",
+    "specs": {}
+  },
+  {
+    "id": "603-bib",
+    "name": "603 BIB",
+    "product_type": "Serie Bib",
+    "business_category": "Gelato Soft",
+    "url": "https://www.iceteam1927.it/prodotti/gelato-soft/serie-bib/603-bib",
+    "specs": {}
+  },
+  {
+    "id": "603-bib-reverse",
+    "name": "603 BIB Reverse",
+    "product_type": "Serie Bib",
+    "business_category": "Gelato Soft",
+    "url": "https://www.iceteam1927.it/prodotti/gelato-soft/serie-bib/603-bib-reverse",
+    "specs": {}
+  },
+  {
+    "id": "603-inox",
+    "name": "603 Inox",
+    "product_type": "Serie Bib",
+    "business_category": "Gelato Soft",
+    "url": "https://www.iceteam1927.it/prodotti/gelato-soft/serie-bib/603-inox",
+    "specs": {}
+  },
+  {
+    "id": "603-soft-and-shake",
+    "name": "603 Soft and Shake",
+    "product_type": "Serie Bib",
+    "business_category": "Gelato Soft",
+    "url": "https://www.iceteam1927.it/prodotti/gelato-soft/serie-bib/603-soft-and-shake",
+    "specs": {}
+  },
+  {
+    "id": "453-inox",
+    "name": "453 Inox",
+    "product_type": "Serie Bib",
+    "business_category": "Gelato Soft",
+    "url": "https://www.iceteam1927.it/prodotti/gelato-soft/serie-bib/453-inox",
+    "specs": {}
+  },
+  {
+    "id": "301-icona-ht",
+    "name": "301 Icona HT",
+    "product_type": "Serie Bib",
+    "business_category": "Gelato Soft",
+    "url": "https://www.iceteam1927.it/prodotti/gelato-soft/serie-bib/301-icona-ht",
+    "specs": {}
+  },
+  {
+    "id": "301-icona-ht-soft-&-shake",
+    "name": "301 Icona HT Soft & Shake",
+    "product_type": "Serie Bib",
+    "business_category": "Gelato Soft",
+    "url": "https://www.iceteam1927.it/prodotti/gelato-soft/serie-bib/301-icona-ht-soft-&-shake",
+    "specs": {}
+  },
+  {
+    "id": "babychef",
+    "name": "Babychef",
+    "product_type": "Multifunzione",
+    "business_category": "Pasticceria And Ristorazione",
+    "url": "https://www.iceteam1927.it/prodotti/pasticceria-and-ristorazione/multifunzione/babychef",
+    "specs": {}
+  },
+  {
+    "id": "masterchef",
+    "name": "Masterchef",
+    "product_type": "Multifunzione",
+    "business_category": "Pasticceria And Ristorazione",
+    "url": "https://www.iceteam1927.it/prodotti/pasticceria-and-ristorazione/multifunzione/masterchef",
+    "specs": {}
+  },
+  {
+    "id": "vario-icona-chef",
+    "name": "Vario Icona Chef",
+    "product_type": "Multifunzione",
+    "business_category": "Pasticceria And Ristorazione",
+    "url": "https://www.iceteam1927.it/prodotti/pasticceria-and-ristorazione/multifunzione/vario-icona-chef",
+    "specs": {}
+  },
+  {
+    "id": "vario-icona-chef-hybrid",
+    "name": "Vario Icona Chef Hybrid",
+    "product_type": "Multifunzione",
+    "business_category": "Pasticceria And Ristorazione",
+    "url": "https://www.iceteam1927.it/prodotti/pasticceria-and-ristorazione/multifunzione/vario-icona-chef-hybrid",
+    "specs": {}
+  },
+  {
+    "id": "masterchef-icona",
+    "name": "Masterchef Icona",
+    "product_type": "Multifunzione",
+    "business_category": "Pasticceria And Ristorazione",
+    "url": "https://www.iceteam1927.it/prodotti/pasticceria-and-ristorazione/multifunzione/masterchef-icona",
+    "specs": {}
+  },
+  {
+    "id": "cremomatic",
+    "name": "Cremomatic",
+    "product_type": "Cuocicrema",
+    "business_category": "Pasticceria And Ristorazione",
+    "url": "https://www.iceteam1927.it/prodotti/pasticceria-and-ristorazione/cuocicrema/cremomatic",
+    "specs": {}
+  },
+  {
+    "id": "stargel-4",
+    "name": "Stargel 4",
+    "product_type": "Mantecatori Da Banco",
+    "business_category": "Pasticceria And Ristorazione",
+    "url": "https://www.iceteam1927.it/prodotti/pasticceria-and-ristorazione/mantecatori-da-banco/stargel-4",
+    "specs": {}
+  },
+  {
+    "id": "vision-2",
+    "name": "Vision 2",
+    "product_type": "Mantecatori Per Gelato Dinamico",
+    "business_category": "Pasticceria And Ristorazione",
+    "url": "https://www.iceteam1927.it/prodotti/pasticceria-and-ristorazione/mantecatori-per-gelato-dinamico/vision-2",
+    "specs": {}
+  },
+  {
+    "id": "Flow-pump",
+    "name": "Flow pump",
+    "product_type": "Sistema Modulare",
+    "business_category": "Gelato Semi Industriale",
+    "url": "https://www.iceteam1927.it/prodotti/gelato-semi-industriale/sistema-modulare/Flow-pump",
+    "specs": {}
+  },
+  {
+    "id": "plate-plus",
+    "name": "Plate plus",
+    "product_type": "Sistema Modulare",
+    "business_category": "Gelato Semi Industriale",
+    "url": "https://www.iceteam1927.it/prodotti/gelato-semi-industriale/sistema-modulare/plate-plus",
+    "specs": {}
+  },
+  {
+    "id": "cmk-185",
+    "name": "CMK 185",
+    "product_type": "Sistema Modulare",
+    "business_category": "Gelato Semi Industriale",
+    "url": "https://www.iceteam1927.it/prodotti/gelato-semi-industriale/sistema-modulare/cmk-185",
+    "specs": {}
+  },
+  {
+    "id": "tmk-pro",
+    "name": "TMK Pro",
+    "product_type": "Sistema Modulare",
+    "business_category": "Gelato Semi Industriale",
+    "url": "https://www.iceteam1927.it/prodotti/gelato-semi-industriale/sistema-modulare/tmk-pro",
+    "specs": {}
+  },
+  {
+    "id": "Infinity-VariO-300",
+    "name": "Infinity VariO 300",
+    "product_type": "Sistema Modulare",
+    "business_category": "Gelato Semi Industriale",
+    "url": "https://www.iceteam1927.it/prodotti/gelato-semi-industriale/sistema-modulare/Infinity-VariO-300",
+    "specs": {}
+  },
+  {
+    "id": "omnigel-400",
+    "name": "Omnigel 400",
+    "product_type": "Sistema Modulare",
+    "business_category": "Gelato Semi Industriale",
+    "url": "https://www.iceteam1927.it/prodotti/gelato-semi-industriale/sistema-modulare/omnigel-400",
+    "specs": {
+      "motore_kw": 2.2,
+      "portata_l_h": 400,
+      "pressione_bar": 120,
+      "pistoni_nr": 2,
+      "dimensioni_cm": "45x49x77",
+      "peso_kg": 120
+    }
+  }
+]
