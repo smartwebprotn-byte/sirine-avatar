@@ -112,10 +112,12 @@ export const VideoAvatar: React.FC = () => {
         // Emergency Fix: Ensure video NEVER stops playing
         if (video.paused) video.play().catch(() => { });
 
-        // Use simpler mapping: 1.0 (default) to 2.0 (fast)
-        // If smoothAudioLevel is 0 (analyser error), it will just play normally at 1x
-        const targetRate = 1.0 + (smoothAudioLevel * 1.5);
-        video.playbackRate = Math.min(2.5, targetRate);
+        // Optimized for new high-quality video loop
+        // Base speed 0.8x (relaxed) to 2.2x (expressive)
+        // This creates contrast between quiet and loud parts without freezing
+        const baseSpeed = 0.8;
+        const dynamicSpeed = baseSpeed + (smoothAudioLevel * 2.5);
+        video.playbackRate = Math.min(2.5, dynamicSpeed);
       } else if (isThinking || isConnecting) {
         // Keep it moving slightly or standard speed when pre-warming?
         // Actually for pre-warming, standard speed is fine, it's invisible.
